@@ -62,16 +62,18 @@ export const portfolioData = {
   //   { name: "Git/GitHub", icon: "git", x: -50, y: -70 }
   // ],
   skills: [
-  { name: "React", icon: "react", x: 1, y: -140 },
-  { name: "Tailwind CSS", icon: "tailwind", x: 90, y: -110 },
-  { name: "JavaScript", icon: "js", x: 150, y: -40 },
-  { name: "Figma", icon: "figma", x: 150, y: 60 },
-  { name: "Node.js", icon: "node", x: 90, y: 140 },
-  { name: "Redux", icon: "redux", x: -90, y: 140 },
-  { name: "CSS3", icon: "css", x: -150, y: 60 },
-  { name: "Next.js", icon: "next", x: -150, y: -40 },
-  { name: "Git/GitHub", icon: "git", x: -90, y: -110 }
-],
+    { name: "React", icon: "react", x:3, y: -140 },
+    { name: "Tailwind CSS", icon: "tailwind", x: 86, y: -118 },
+    { name: "JavaScript", icon: "js", x: 146, y: -59 },
+    { name: "Figma", icon: "figma", x: 158, y: 20 },
+    { name: "WordPress", icon: "wordpress", x: 122, y: 91 },
+    { name: "Node.js", icon: "node", x: 45, y: 134 },
+    { name: "Redux", icon: "redux", x: -45, y: 134 },
+    { name: "SEO", icon: "seo", x: -122, y: 91 },
+    { name: "CSS3", icon: "css", x: -158, y: 20 },
+    { name: "Next.js", icon: "next", x: -146, y: -59 },
+    { name: "Git/GitHub", icon: "git", x: -86, y: -118 }
+  ],
   projects: [
     {
       id: 1,
